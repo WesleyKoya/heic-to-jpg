@@ -39,15 +39,6 @@ python3 -m http.server 8000
 
 Depois acesse http://localhost:8000 no navegador.
 
-## Publicando no GitHub Pages
-
-1. Crie um repositório público no GitHub.
-2. Envie os arquivos desta pasta (index.html, style.css, script.js) para a raiz do repositório.
-3. No repositório, vá em Settings, depois Pages.
-4. Em "Build and deployment", em "Source", escolha "Deploy from a branch".
-5. Em "Branch", selecione main e a pasta / (root). Clique em Save.
-6. Após alguns minutos, o site estará disponível em:
-   https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 
 ## Tecnologias
 
