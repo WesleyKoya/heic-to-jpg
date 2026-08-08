@@ -1,4 +1,4 @@
-# Mesa de Luz
+# HEIC to JPG
 
 Conversor de imagens HEIC para JPG que roda inteiramente no navegador, sem backend e sem upload de arquivos para nenhum servidor.
 
